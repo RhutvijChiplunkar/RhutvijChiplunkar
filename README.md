@@ -1,12 +1,12 @@
-## Hey there,I am Rhutvij Chiplunkar 👋
+## Hey there, I am Rhutvij Chiplunkar 👋
 
- ### About Me:
+ ### 💁 About Me:
 🧑‍💻 Currently working as Software Engineer at Avaya<br>
 🖥 Full Stack Web Developer <br>
 🎓 Complted Bachelor of Engineering in Information Technology degree in June 2023<br>
 
 
-📫 Reach me out:
+ ### 📫 Reach me out:
 <div align="left">
   <a href="mailto:rhutvij.chiplunkar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
