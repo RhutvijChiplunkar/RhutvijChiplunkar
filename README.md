@@ -3,7 +3,7 @@
  ### 💁 About Me:
 🧑‍💻 Currently working as Software Engineer at Avaya<br>
 🖥 Full Stack Web Developer <br>
-🎓 Complted Bachelor of Engineering in Information Technology degree in June 2023<br>
+🎓 Completed Bachelor of Engineering in Information Technology degree from Pune Institute of Computer Technology in June 2023<br>
 
 
  ### 📫 Reach me out:
