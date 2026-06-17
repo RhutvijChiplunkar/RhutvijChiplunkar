@@ -1,8 +1,8 @@
 ## Hey there, I am Rhutvij Chiplunkar 👋
 
  ### 💁 About Me:
-🧑‍💻 Currently working as Software Engineer at Avaya<br>
-🖥 Full Stack Web Developer <br>
+🧑‍💻 Currently working as Software Engineer 1 at Avaya<br>
+🖥 Backend Developer <br>
 🎓 Completed Bachelor of Engineering in Information Technology degree from Pune Institute of Computer Technology in June 2023<br>
 
 
